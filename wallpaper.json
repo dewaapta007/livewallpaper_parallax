@@ -41,9 +41,9 @@
     {
       "id": 1,
       "name_category": "Super Car",
-      "wallpaper_name": "Targa",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "image/car.jpeg"
+      "wallpaper_name": "Anime",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/22/dd/a0/22dda076fc9dbf8cd702b1c243c9d841.gif"
     },
     {
       "id": 2,
